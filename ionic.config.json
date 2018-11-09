@@ -1,0 +1,7 @@
+{
+  "name": "GmailAuth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
